@@ -34,10 +34,7 @@
       .next{ color:#f95959;
       	text-decoration: none;
       }
-      .next:hover{
-      	color: #45b29a;
-      }
-
+      
     .about{ width:40%;
     	margin: auto;
     	text-align: left;
