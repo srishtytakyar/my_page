@@ -15,9 +15,8 @@
 			
 			}
      
-      .next:hover{
-      	color: #45b29a;
-      }
+      img:hover {background-color:gold;
+      	opacity: 0.5;} 
       img{margin: 40px;}
 
       .computer{
@@ -35,7 +34,10 @@
       .next{ color:#f95959;
       	text-decoration: none;
       }
-      
+      .next:hover{
+      	color: #45b29a;
+      }
+
     .about{ width:40%;
     	margin: auto;
     	text-align: left;
