@@ -15,8 +15,9 @@
 			
 			}
      
-      img:hover {background-color:gold;
-      	opacity: 0.5;} 
+      .next:hover{
+      	color: #45b29a;
+      }
       img{margin: 40px;}
 
       .computer{
